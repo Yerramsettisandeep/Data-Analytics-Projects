@@ -1,0 +1,328 @@
+🟦 1. PYTHON BASICS
+
+1.1 Python Introduction
+What is Python
+Features of Python
+Applications of Python
+Python vs Other Languages
+
+1.2 Python Environment
+Installing Python
+Python Version
+Python Interpreter
+Jupyter Notebook
+VS Code / IDE
+
+1.3 Variables & Data Types
+Variables
+Naming Rules
+int
+float
+string
+boolean
+type()
+
+1.4 Input & Output
+input()
+print()
+formatted output
+
+1.5 Operators
+Arithmetic Operators
+Relational Operators
+Logical Operators
+Assignment Operators
+Membership Operators
+Identity Operators
+
+1.6 Conditional Statements
+if
+if–else
+if–elif–else
+nested if
+
+1.7 Loops
+for loop
+while loop
+infinite loop
+break
+continue
+pass
+
+1.8 Functions
+Built-in functions
+User-defined functions
+return
+parameters & arguments
+lambda function
+
+1.9 Data Structures
+List
+Tuple
+Set
+Dictionary
+
+1.10 String Handling
+String methods
+slicing
+indexing
+
+🟦 2. NUMPY (Numerical Python)
+
+2.1 Introduction to NumPy
+Why NumPy
+Advantages of NumPy
+NumPy vs List
+
+2.2 NumPy Arrays
+array()
+1D array
+2D array
+3D array
+
+2.3 Array Properties
+ndim
+shape
+size
+dtype
+
+2.4 Array Creation Functions
+zeros()
+ones()
+arange()
+linspace()
+eye()
+
+2.5 Indexing & Slicing
+Indexing
+Slicing
+Boolean indexing
+
+2.6 Array Operations
+Arithmetic operations
+Comparison operations
+Broadcasting
+
+2.7 Mathematical Functions
+sum()
+mean()
+min()
+max()
+std()
+
+2.8 Reshaping
+reshape()
+flatten()
+ravel()
+
+2.9 Random Module
+rand()
+randint()
+randn()
+seed()
+
+🟦 3. PANDAS
+3.1 Introduction
+What is Pandas
+Why Pandas
+Pandas Use Cases
+3.2 Data Structures
+Series
+DataFrame
+Series vs DataFrame
+
+3.3 Data Loading
+read_csv()
+read_excel()
+read_json()
+
+3.4 Data Exploration
+head()
+tail()
+info()
+describe()
+shape
+columns
+
+3.5 Data Selection
+Single column
+Multiple columns
+Row selection
+loc
+iloc
+
+3.6 Filtering Data
+Conditional filtering
+Multiple conditions (&, |)
+isin()
+between()
+
+3.7 Data Cleaning
+Missing values
+isnull()
+notnull()
+dropna()
+fillna()
+
+3.8 Column Operations
+Creating new columns
+Updating columns
+Renaming columns
+Dropping columns
+
+3.9 Data Transformation
+apply()
+map()
+lambda functions
+
+3.10 Sorting
+sort_values()
+sort_index()
+
+3.11 Aggregation
+groupby()
+sum()
+mean()
+count()
+min()
+max()
+
+3.12 Data Analysis
+value_counts()
+unique()
+nunique()
+
+3.13 Feature Engineering
+Creating derived columns
+Encoding categorical data
+
+🟦 4. SQL (SQL SERVER)
+4.1 Database Basics
+Database
+DBMS
+RDBMS
+
+4.2 SQL Basics
+SQL vs SQL Server
+DDL, DML, DCL, TCL
+
+4.3 Database Commands
+CREATE DATABASE
+DROP DATABASE
+USE DATABASE
+
+4.4 Table Commands
+CREATE TABLE
+INSERT
+SELECT
+UPDATE
+DELETE
+TRUNCATE
+
+4.5 Constraints
+PRIMARY KEY
+FOREIGN KEY
+UNIQUE
+NOT NULL
+CHECK
+DEFAULT
+
+4.6 Joins
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+
+4.7 Functions
+Aggregate functions
+Scalar functions
+
+4.8 Subqueries
+Single row subquery
+Multiple row subquery
+
+4.9 Views
+CREATE VIEW
+DROP VIEW
+
+4.10 Stored Procedures
+CREATE PROCEDURE
+EXEC
+Parameters
+
+4.11 Transactions
+COMMIT
+ROLLBACK
+SAVEPOINT
+ACID Properties
+
+4.12 CTE
+Common Table Expression
+Recursive CTE
+
+4.13 Window Functions
+ROW_NUMBER()
+RANK()
+DENSE_RANK()
+LEAD()
+LAG()
+
+🟦 5. DATA ANALYSIS PROCESS
+5.1 Data Collection
+5.2 Data Cleaning
+5.3 Data Exploration
+5.4 Data Transformation
+5.5 Data Visualization
+5.6 Insights & Reporting
+
+🟦 6. DATA VISUALIZATION
+6.1 Matplotlib
+Line chart
+Bar chart
+Histogram
+Pie chart
+
+6.2 Seaborn
+Countplot
+Boxplot
+Heatmap
+Pairplot
+
+🟦 7. DASHBOARDS & BI TOOLS
+7.1 Power BI
+Data Import
+Data Modeling
+Relationships
+DAX Basics
+KPIs
+Cards
+Slicers
+Reports
+Dashboards
+
+7.2 Tableau
+Dimensions & Measures
+Calculated Fields
+Filters
+Parameters
+Dashboard Creation
+
+🟦 8. MACHINE LEARNING (BASICS)
+8.1 Introduction
+What is Machine Learning
+Types of ML
+
+8.2 Supervised Learning
+Linear Regression
+Logistic Regression
+KNN
+Decision Tree
+
+8.3 Unsupervised Learning
+K-Means Clustering
+
+8.4 Model Evaluation
+Accuracy
+Precision
+Recall
+Confusion Matrix
